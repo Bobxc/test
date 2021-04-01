@@ -21,6 +21,7 @@ export default {
     return {
       data: "",
       test1: "",
+      test2: "",
       dialogVisible: false,
     };
   },

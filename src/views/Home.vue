@@ -19,6 +19,7 @@ export default {
   name: "Home",
   data() {
     return {
+      data: "",
       dialogVisible: false,
     };
   },
